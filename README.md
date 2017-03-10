@@ -1,5 +1,5 @@
 # Budjet
-Maintain your monthly salary and expenses on the go...
+Maintain your monthly salary and expenses. create monthly budget using this site.
 
 ## Technologies Used
 HTML5, CSS#, Angular.js, Bootstrap, PHP, MYSQL, Highcharts.
