@@ -10,5 +10,5 @@ HTML5, CSS#, Angular.js, Bootstrap, PHP, MYSQL, Highcharts.
 ## Build Process
 First Create database `monthlyreport`.
 Import the monthlyreport.txt file in database.
-change host,username,password and db name in dbconfic.php file.
+change host,username,password and db name in dbconfic.php file .
 
